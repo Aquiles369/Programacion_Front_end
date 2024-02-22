@@ -8,7 +8,7 @@ Ciberseguridad PDF
 
 
 - :file_folder:__OSSTMM_V3_ES__:
-Son varios pdf relacionado con las Auditoria redes , entre otros.<br>
+Son varios pdf relacionado con las Auditoria Redes , SiStemas , Bunas praticas: Entre otros .<br>
 Este PDF en praticular es  sobre la Metodologia OSSTMM V3.
 <br>+[Bienpenido al OSSTM V3 ESPAÑOL pdf](OSSTMM_v3_traducido_al_Español.pdf)<br>
 +[Bienpenido al Resumen_personal_de_OSSTMM_V3_ES](Resumen_personal_de_OSSTMM_V3_ES.txt)
